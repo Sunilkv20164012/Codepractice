@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146363763851",
+    "firebase_url": "https://codepractice-6ad33.firebaseio.com",
+    "project_id": "codepractice-6ad33",
+    "storage_bucket": "codepractice-6ad33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146363763851:android:5ba49ea71ac5db3b",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.codepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146363763851-bjbod1pq69qd13dgartuakvcm5kdnmte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.codepractice",
+            "certificate_hash": "fe98dcd88f781f2d38c65f8795d57dc251bf08ef"
+          }
+        },
+        {
+          "client_id": "146363763851-6rruoq251dgradrggrdgs88bsufa5mk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8es6wrDQVcfkF_A_5d_WWqBcr9OYiC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146363763851-6rruoq251dgradrggrdgs88bsufa5mk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
